@@ -14,5 +14,10 @@ $this->params['breadcrumbs'][] = $this->title;
         This is the About page. You may modify the following file to customize its content:
     </p>
 
+    <h3> Visitors counter </h3>
+
+    <?php
+    ?>
+
     <code><?= __FILE__ ?></code>
 </div>
